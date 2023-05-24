@@ -1,8 +1,9 @@
 # Tailwind Projects
 
-This folder contains projects such as:
+This folder contains responsive projects such as:
 
-- Responsive email subscribe form
-- Responsive Princing cards
-- product-modal
+- Email subscribe form
+- Pricing cards
+- Product modal
 - Image Gallery
+- Login Modal
