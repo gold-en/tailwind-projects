@@ -10,3 +10,9 @@ This folder contains responsive projects such as:
 
 - [x] WEBSITE PROJECTS
   - [ ] Clipboard landing page
+
+## Website Projects links on Netlify
+
+Click on any of the projects below.
+
+- [Clipboard landing page](https://golden-clipboard.netlify.app/)
