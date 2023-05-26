@@ -7,3 +7,6 @@ This folder contains responsive projects such as:
 - Product modal
 - Image Gallery
 - Login Modal
+
+- [x] WEBSITE PROJECTS
+  - [ ] Clipboard landing page
