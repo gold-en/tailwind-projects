@@ -12,9 +12,11 @@ This folder contains responsive projects such as:
 
 - [x] WEBSITE PROJECTS
   - [ ] Clipboard landing page
+  - [ ] Loopstudios landing page
 
-## Website Projects links on Netlify
+## Website Projects live links
 
 Click on any of the projects below.
 
 - [Clipboard landing page](https://golden-clipboard.netlify.app/)
+- [Loopstudioa landing page](https://golden-loopstudios.vercel.app/)
