@@ -14,7 +14,7 @@ This folder contains responsive projects such as:
   - [ ] Clipboard landing page
   - [ ] Loopstudios landing page
 
-## Website Projects live links
+## Website Projects live links on Netlify/Vercel
 
 Click on any of the projects below.
 
