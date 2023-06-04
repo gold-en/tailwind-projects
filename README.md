@@ -19,4 +19,4 @@ This folder contains responsive projects such as:
 Click on any of the projects below.
 
 - [Clipboard landing page](https://golden-clipboard.netlify.app/)
-- [Loopstudioa landing page](https://golden-loopstudios.vercel.app/)
+- [Loopstudios landing page](https://golden-loopstudios.vercel.app/)
